@@ -1,0 +1,16 @@
+set celsius temperature
+set celsius to farenheit conversation rate
+
+onclick of convert button, convert celcius input to farenheit (multiple by 1.8 then add 32).
+
+If  temperature is equal to or below 32 degrees farenheit, show winter image.
+
+Else if temperature is equal to or above 70 degrees, show summer image.
+
+else if temperature is below 69.9 and above 50,
+show fall image.
+
+else if temperature is below 50 and above 32,
+show spring image.
+
+

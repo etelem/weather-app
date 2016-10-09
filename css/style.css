@@ -1,0 +1,16 @@
+body {
+	font-family: "Open-Sans";
+	background-image: url("http://www.walldevil.com/wallpapers/a55/web-wallpaper-background-about-wallpaperweb-color-sky.jpg");
+	color: white;
+	text-align: center;
+	padding: 50px;
+	border: dashed 5px white;
+	margin-top: 20px;
+}
+
+button {
+	font-size: 22px;
+	border-radius: 5px;
+	box-shadow: rgba(255,255,255,.85);
+	border: solid 2px white;
+}
